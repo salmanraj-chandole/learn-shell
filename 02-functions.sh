@@ -24,3 +24,8 @@ SAMPLE() {
 
 SAMPLE
 SAMPLE
+
+# variables in functions
+# --> Declare variables in function, Main program can access it and vice-versa
+
+
