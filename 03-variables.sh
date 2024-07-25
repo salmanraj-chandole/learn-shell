@@ -41,3 +41,10 @@ echo Arguments Count - $#
 # Approach 3 - export z=500 ; bash 03-variables.sh
 echo Environment Variables z - $z
 
+
+# Variable names can have alphabets, numbers and _ (Same for Function also)
+# Variable name styles. Ex: variable name is coursename
+# CamelCase - courseName
+# PascalCase - CourseName
+# snake case - course_name
+# UNIX Way ( Later Linux) - COURSE_NAME
