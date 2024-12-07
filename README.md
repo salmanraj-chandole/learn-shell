@@ -48,6 +48,7 @@ sed -i '1d' file
 sed -i '/root/ d' file
 
 
+'''text
 cd /tmp
 cp /etc/passwd .
 ls
@@ -68,3 +69,4 @@ sed 's/halt/poweroff/g' passwd
 sed 's/bash/BASH/' passwd
 sed 's/bash/ksh/' passwd
 sed '/roboshop/ s/bash/ksh/' passwd
+'''
