@@ -69,4 +69,4 @@ sed 's/halt/poweroff/g' passwd
 sed 's/bash/BASH/' passwd
 sed 's/bash/ksh/' passwd
 sed '/roboshop/ s/bash/ksh/' passwd
-''''
+'''
