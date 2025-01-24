@@ -12,7 +12,14 @@ while [ $i -gt 0 ]; do
 done
 
 for i in apple banana orange ; do
-    echo Fruit Name - $i
-    sleep 1
+  echo Fruit Name - $i
+  sleep 1
+done
+
+#items=$(cat file)
+#
+#for i in $items ; do
+#  echo Fruit Name - $i
+#  sleep 1
 done
 
