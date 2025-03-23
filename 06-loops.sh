@@ -17,6 +17,7 @@ for i in apple banana orange ; do
 done
 
 #if we have a file with huge data, we can use a variable (items) to load the data from file as below
+#cat file: It pulls the data from a file named as file.
 #
 #items=$(cat file)
 #
