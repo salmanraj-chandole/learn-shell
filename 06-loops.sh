@@ -16,6 +16,8 @@ for i in apple banana orange ; do
   sleep 1
 done
 
+#if we have a file with huge data, we can use a variable (items) to load the data from file as below
+#
 #items=$(cat file)
 #
 #for i in $items ; do
