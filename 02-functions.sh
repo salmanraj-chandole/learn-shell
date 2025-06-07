@@ -33,3 +33,4 @@ DEMO() {
 }
 
 DEMO abc
+# the variable value abc is being passed while calling the function.
